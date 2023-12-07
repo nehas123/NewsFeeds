@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "60FF4B70-B22E-4EE6-97B8-62F3510E3E9A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E4E8EBB-0605-47C8-BCE0-EBF008F78C72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsDemo/ViewControllers/NewsFeedListVC/NewsFeedListVC.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E4E8EBB-0605-47C8-BCE0-EBF008F78C72 - b16092d54af9244a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NewsFeedListVC tableView:cellForRowAtIndexPath:]"
+                  moduleName = "NewsDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nehasa/Desktop/NewsDemo/NewsDemo/ViewControllers/NewsFeedListVC/NewsFeedListVC.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "6E4E8EBB-0605-47C8-BCE0-EBF008F78C72 - dc0983db4658b7e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__50-[NewsFeedListVC tableView:cellForRowAtIndexPath:]_block_invoke"
+                  moduleName = "NewsDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nehasa/Desktop/NewsDemo/NewsDemo/ViewControllers/NewsFeedListVC/NewsFeedListVC.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FAD5766-9420-409A-B445-2CBB548E79DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsDemo/ViewControllers/NewsFeedListVC/NewsFeedListVC.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
